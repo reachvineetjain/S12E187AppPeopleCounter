@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">0</string>
+    <string name="reset">Reset</string>
+    <string name="plusOne">+1</string>
+</resources>
